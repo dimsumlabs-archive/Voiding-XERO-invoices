@@ -1,2 +1,2 @@
 # Voiding-XERO-invoices
-Using nightmare in order to automate the voiding process on XERO
+Using [nightmare](https://github.com/segmentio/nightmare) in order to automate the voiding process on XERO
